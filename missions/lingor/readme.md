@@ -17,9 +17,9 @@ The year is 1987. The tropical Latin American paradise of Lingor is ripe for a b
 	- [[Trial version]](https://steamcommunity.com/sharedfiles/filedetails/?id=2477276806)
 - A microphone
 - [[Teamspeak 3 (TS3) v3.6.1]](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe)
-- [[Join Pantrh’s Discord for server info]](https://discord.com/invite/FeyqxXA)
+- [[Join Pantrh’s Discord for server passwords and IPs.]](https://discord.com/invite/FeyqxXA)
 - [[Task Force Arrowhead Radio (TS3 Plugin)]](https://cdn.discordapp.com/attachments/687630994123390986/1122243967614988308/task_force_radio.ts3_plugin)
-- [[Lingor Liberation 1987 Mods v1.3.0] (Size: 41.3 GBs)](https://github.com/moistbois/Moist-Liberation-APR/releases/download/modlists/Arma.3.Preset.LingorLiberation1987_3.html)
+- [[Lingor Liberation 1987 Mods v1.3.0] (Size: 41.3 GBs)](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.LingorLiberation1987_3.html)
 
 ### Rules:
 - Don’t be a dick.
