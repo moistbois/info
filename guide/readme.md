@@ -95,7 +95,7 @@ Click on the "H" then click on "Delete", then click "OK."
 ![Screenshot of ARMA 3's Controls menu, in the process of unmapping "Last Hint"](img/lasthintdel.png)
 
 #### Unmapping "Throw":
-We're disabling "Throw" as it usually gets bumped by accident and causes friendly fire. Instead, Shift+G will be used to throw.
+We're disabling "Throw" as it usually gets bumped by accident and causes friendly fire. We'll be using ACE's Throw function instead, which is already bound to Shift+G.
 
 At the top in controls, you should see "Show: Common."
 Click on "Common" and switch it to "Weapons."
