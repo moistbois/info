@@ -50,57 +50,56 @@ When the launcher opens up, click on "Parameters." Switch to "All Parameters" to
 ![Screenshot of ARMA 3 Launcher set to "Parameters" and a cursor over "All Parameters."](img/params1.png)
 
 
-- Basic
-	- Show static backgrounds in Menu
+### Basic
+- Show static backgrounds in Menu
 		- Loads the main menu faster by loading an image instead of a 3D background.
-	- Skip logos at startup
+- Skip logos at startup
 		- Speeds up launching by skipping the intro logos.
 
 ![Screenshot of ARMA 3 Launcher's Parameters Basic Category](img/paramsbasic.png)
 
-- Advanced
-	- CPU Count
-		- Certain Ryzens (and possibly Intel) may benefit from setting this to the amount of physical cores (not total threads) the CPU has. **DO NOT ENABLE THIS WITH "Enable Hyper-Threading"!!**
-	- Extra Threads:
-		- File operations
-		- Texture Loading
-		- Geometry Loading
-			- Enabling these will separate these threads out of the main ARMA 3 process, which may improve performance on some systems.
-	- Enable Hyper-Threading*
-		- * Lets a single core run multiple threads. May benefit systems with hyperthreading. **DO NOT ENABLE THIS WITH "CPU count"!!**
-	- Memory Allocator:
-		- Switch this to "mimalloc_v212"
-			- Uses an alternative memory allocator, which improves performance. As mentioned above, **this should only be done for systems with at least 16 GBs of RAM**!
+### Advanced
+- CPU Count
+	- Certain Ryzens (and possibly Intel) may benefit from setting this to the amount of physical cores (not total threads) the CPU has. **DO NOT ENABLE THIS WITH "Enable Hyper-Threading"!!**
+- Extra Threads:
+	- File operations
+	- Texture Loading
+	- Geometry Loading
+		- Enabling these will separate these threads out of the main ARMA 3 process, which may improve performance on some systems.
+- Enable Hyper-Threading*
+	- * Lets a single core run multiple threads. May benefit systems with hyperthreading. **DO NOT ENABLE THIS WITH "CPU count"!!**
+- Memory Allocator:
+	- Switch this to "mimalloc_v212"
+		- Uses an alternative memory allocator, which improves performance. As mentioned above, **this should only be done for systems with at least 16 GBs of RAM**!
 
 ![Screenshot of ARMA 3 Launcher's Parameters Advanced Category](img/paramsadv.png)
 
-- Client
-	- Server address:*
-		- Input the server address here
-	- Server port:*
-		- Input the server port here
-	- Server Password:*
-		- Input the server password here
-	- * You should only enable these if you mostly play on one server. Fill them out with the server information from Discord.
+### Client
+- Server address:*
+	- Input the server address here
+- Server port:*
+	- Input the server port here
+- Server Password:*
+	- Input the server password here
+- * You should only enable these if you mostly play on one server. Fill them out with the server information from Discord.
 
 ![Screenshot of ARMA 3 Launcher's Parameters Client Category](img/paramsclient.png)
 
-- Host
-	- Server port:
-		- This will auto enable then "Server port" in client is enabled.
+### Host
+- Server port:
+	- This will auto enable then "Server port" in client is enabled.
 
 ![Screenshot of ARMA 3 Launcher's Parameters Host Category](img/paramshost.png)
 
-- Author
-	- No Pause
-		- Keeps the game running when you tab out. Helps with stability as the game pausing and unpausing can lead to crashes.
-	- No Pause Audio
-		- Keeps the game audio running when you tab out. Helps with awareness and doesn't pop speakers/headphones when switching in and out of ARMA 3.
-
+### Author
+- No Pause
+	- Keeps the game running when you tab out. Helps with stability as the game pausing and unpausing can lead to crashes.
+- No Pause Audio
+	- Keeps the game audio running when you tab out. Helps with awareness and doesn't pop speakers/headphones when switching in and out of ARMA 3.
 ![Screenshot of ARMA 3 Launcher's Parameters Author Category](img/paramsauth.png)
 
-- Compatibility
-**DO NOT TOUCH ANYTHING IN HERE!**
+### Compatibility
+- **DO NOT TOUCH ANYTHING IN HERE!**
 
 ![Screenshot of ARMA 3 Launcher's Parameters Compatibility Category](img/paramscompat.png)
 
