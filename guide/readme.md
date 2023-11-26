@@ -1,4 +1,3 @@
-
 # Pro Tips
 
 ### Steam:
@@ -17,34 +16,64 @@ Switch "Beta Participation" to "profiling - Performance Profiling Build." Steam 
 
 When you're done, click close out the window.
 
+### ARMA 3 Custom Allocator:
+We'll be installing a custom allocator to improve performance. **This should only be done if you have at least 16 GBs of RAM!**
+
+First [[click here to download the allocator DLL file]](https://github.com/GoldJohnKing/mimalloc/releases/download/Arma-3-v2.1.2-20230427/mimalloc_v212.dll)
+
+![Screenshot of mimalloc_v212.dll in the download list of a browser.](img/custallo1.png)
+
+Move the .DLL file into your ARMA 3 folder. The easiest way to get there is to right click on ARMA 3 in your Steam Library, clicking on properties.
+
+![Screenshot of ARMA 3 in a Steam Library being right clicked, with "Properties" highlighted.](img/prof1.png)
+
+Once "Properties" opens, click on  "Installed Files", and then finally "Browse."
+
+![Screenshot of ARMA 3's Steam properties, showing a cursor of "Browser...".](img/custallo2.png)
+
+Once you are in the ARMA 3 folder, go into on the "Dll" folder.
+
+![Screenshot of ARMA 3's folder, with a folder called "Dll" being highlighted.](img/custallo3.png)
+
+Move the `mimalloc_v212.dll` file into here.
+
+![Screenshot of ARMA 3's Dll folder, with mimalloc_v212.dll inside and highlighted.](img/custallo4.png)
+
 ### ARMA 3 Launcher Parameters:
-We'll be editing the launch parameters in ARMA 3. A few of these will be skipped depending on your needs or your system.
+We'll now be editing the launch parameters in ARMA 3.
+**Edits highlighted in yellow are strongly recommended. Edits highlighted in blue will depend on your system.**
+For "blue" edits, it's strongly suggested you run a [[benchmark]](https://steamcommunity.com/sharedfiles/filedetails/?id=375092418) to see the options are helping (or harming) performance.
 
 Open ARMA 3 on Steam. It should bring up the launcher.
-When the launcher opens up, click on "Parameters."
+When the launcher opens up, click on "Parameters." Switch to "All Parameters" to see every parameter too
 
-![Screenshot of ARMA 3 Launcher, with an arrow pointing at parameters](img/params1.png)
+![Screenshot of ARMA 3 Launcher set to "Parameters" and a cursor over "All Parameters."](img/params1.png)
 
-Let's edit some of these. Make sure you're set to view "All Parameters".
-You should enable:
+
 - Basic
 	- Show static backgrounds in Menu
-		- Loads into the main menu faster by loading an image instead of a 3D background.
+		- Loads the main menu faster by loading an image instead of a 3D background.
 	- Skip logos at startup
 		- Speeds up launching by skipping the intro logos.
+
+![Screenshot of ARMA 3 Launcher's Parameters Basic Category](img/paramsbasic.png)
+
 - Advanced
+	- CPU Count
+		- Certain Ryzens (and possibly Intel) may benefit from setting this to the amount of physical cores (not total threads) the CPU has. **DO NOT ENABLE THIS WITH "Enable Hyper-Threading"!!**
 	- Extra Threads:
 		- File operations
 		- Texture Loading
 		- Geometry Loading
-			- Enabling these will separate these threads out of the main ARMA 3 process, which may help performance on systems with multiple cores.
+			- Enabling these will separate these threads out of the main ARMA 3 process, which may improve performance on some systems.
 	- Enable Hyper-Threading*
-		- * Lets a single core run multiple threads. This may improve or harm your performance. Experiment and measure framerate with this turned on or off.
+		- * Lets a single core run multiple threads. May benefit systems with hyperthreading. **DO NOT ENABLE THIS WITH "CPU count"!!**
 	- Memory Allocator:
-		- Switch this to "Windows allocator (system)"
-			- Uses Windows' built in memory management, which usually performs better. May not do anything for your system.
-	- Enabled Large-page Support
-		- Manages larger memory loads and (allegedly) causes less stress to the TLB.
+		- Switch this to "mimalloc_v212"
+			- Uses an alternative memory allocator, which improves performance. As mentioned above, **this should only be done for systems with at least 16 GBs of RAM**!
+
+![Screenshot of ARMA 3 Launcher's Parameters Advanced Category](img/paramsadv.png)
+
 - Client
 	- Server address:*
 		- Input the server address here
@@ -53,22 +82,35 @@ You should enable:
 	- Server Password:*
 		- Input the server password here
 	- * You should only enable these if you mostly play on one server. Fill them out with the server information from Discord.
+
+![Screenshot of ARMA 3 Launcher's Parameters Client Category](img/paramsclient.png)
+
 - Host
 	- Server port:
 		- This will auto enable then "Server port" in client is enabled.
+
+![Screenshot of ARMA 3 Launcher's Parameters Host Category](img/paramshost.png)
+
 - Author
 	- No Pause
 		- Keeps the game running when you tab out. Helps with stability as the game pausing and unpausing can lead to crashes.
 	- No Pause Audio
-		- Keeps the game audio running when you tab out. Helps with awareness and doesn't pop game audio when switching in and out of ARMA 3.
+		- Keeps the game audio running when you tab out. Helps with awareness and doesn't pop speakers/headphones when switching in and out of ARMA 3.
 
-![Screenshot of ARMA 3 Launcher's parameter section.](img/params2.png)
+![Screenshot of ARMA 3 Launcher's Parameters Author Category](img/paramsauth.png)
+
+- Compatibility
+**DO NOT TOUCH ANYTHING IN HERE!**
+
+![Screenshot of ARMA 3 Launcher's Parameters Compatibility Category](img/paramscompat.png)
+
+
 
 ## In-Game Settings
 The next settings will be done in-game. You should probably do these while logged in and playing on a mission/server or in the VR rooms.
 
 ### ARMA 3 Video Settings:
-We'll be switching to "Fullscreen Window" (aka Borderless Window) display modes since the game crashes when tabbing out and in in Fullscreen.
+We'll be switching to the "Fullscreen Window" (aka Borderless Window) display mode since the game sometimes crashes when tabbing in and out while in Fullscreen.
 
 Press ESC. Click on "Configure" then click on "Video."
 
