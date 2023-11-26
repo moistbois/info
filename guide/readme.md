@@ -96,6 +96,7 @@ When the launcher opens up, click on "Parameters." Switch to "All Parameters" to
 	- Keeps the game running when you tab out. Helps with stability as the game pausing and unpausing can lead to crashes.
 - No Pause Audio
 	- Keeps the game audio running when you tab out. Helps with awareness and doesn't pop speakers/headphones when switching in and out of ARMA 3.
+ 
 ![Screenshot of ARMA 3 Launcher's Parameters Author Category](img/paramsauth.png)
 
 ### Compatibility
