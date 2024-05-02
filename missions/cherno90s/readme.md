@@ -1,5 +1,5 @@
 
-# Lingor Liberation: Chernarus Civil War
+# Chernarus Liberation: Civil War
 
 <div align="center">
     
@@ -8,7 +8,7 @@
 </div>
 
 ### About:
-TBA
+Before the turn of the millenium, Chernarus is plunged into a civil war caused by a violent secession. You are within a group of Chernarussians on a daring mission to liberate key enemy sectors scattered across the war-torn landscape of Chernarus and her islands within the Green Sea region. Expect the unexpected as you have to fight against people you once greeted as your neighbors. Good luck!
 
 ### Requirements:
 - [[ARMA] 3 (Size: 40.61 GBs)](https://store.steampowered.com/app/107410/Arma_3/)
@@ -16,7 +16,7 @@ TBA
 - [[Teamspeak 3 (TS3) v3.6.1]](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe)
 - [[Join Pantrh’s Discord for server passwords and IPs.]](https://discord.com/invite/FeyqxXA)
 - [[Task Force Arrowhead Radio (TS3 Plugin)]](https://cdn.discordapp.com/attachments/687630994123390986/1122243967614988308/task_force_radio.ts3_plugin)
-- [[Chernarus Liberation 1990s v1.0.0] (Size: 40 GBs)](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.LingorLiberation1987_3.html)
+- [[Chernarus Liberation 1990s v1.0.1] (Size: 40 GBs)](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.LingorLiberation1987_3.html)
 
 ### Rules:
 - Don’t be a dick.
@@ -28,27 +28,30 @@ TBA
 
 ### Modlist:
 - ace
+- ACSTG AI Cannot See Through Grass
+- Advanced Sling Loading
+- Advanced Towing
 - Automatic Warning Suppressor
 - Better Inventory
-- Blastcore Edited (standalone version)
-- cb_blood
 - CBA_A3
+- CH Bright Nights
 - CH View Distance
+- Cold War Moustaches
 - CUP Terrains - Core
-- Colombian Armed Forces RHS
 - DHI Uniforms and Equipment
-- DUI - Squad Radar
 - Discord Rich Presence
+- DUI - Squad Radar
 - Enhanced Movement
 - Enhanced Movement Rework
+- Explosive Fuel Containers
 - Extra RHS Uniform Re-textures
-- GSTAVOs  M16A2
-- GX - Objects
-- Global Mobilization - Demo Vehicle
+- Green Sea Terrain
 - Gruppe Adler Trenches
+- Helicopter Turbulence
 - Immerse
 - Immersion Cigs
 - Improved ACE Arsenal Category
+- Insects and Bugs Mod
 - Interiors for CUP
 - JSRS SOUNDMOD
 - JSRS SOUNDMOD - RHS  AFRF Mod Pack Sound Support
@@ -56,27 +59,32 @@ TBA
 - JSRS SOUNDMOD - RHS SAF Mod Pack Support
 - JSRS SOUNDMOD - RHS USAF Mod Pack Sound Support
 - KLPQ Music Radio
-- Lingor/Dingor Island
-- Moistbois Factions - Lingor 1980s
-- Moistbois Radio - Lingor 1980s
+- Ladder Tweak
+- LAMBS_Danger.fsm (DEV)
+- LAMBS_RPG_RHS
+- LAMBS_Suppression
+- LAMBS_Turrets
+- Moistbois Factions - Chernarus 1990s
+- Moistbois Radio - Green Sea 1990s
+- NIArms AK Rifles
+- NIArms AR15 Rifles
 - NIArms Core
 - NIArms Core - RHS Compatibility
-- NIArms FAL Rifles
 - NIArms G3 Rifles
-- NIArms M1903 Springfield Rifles
+- No More Aircraft Bouncing
 - Project OPFOR
 - RDS Civilian Pack
 - RHSAFRF
 - RHSGREF
 - RHSSAF
 - RHSUSAF
-- S.O.G. Melee CBA Keybind
-- S.O.G. Prairie Fire
+- RR Immersive Maps by LAxemann
 - SSD Death Screams 2.1
-- Spanish Voice-Overs and Radio Protocol
-- TAC VESTS
 - Task Force Arrowhead Radio (BETA!!!)
+- TFAR Animations
+- TFAR compat - DHI
 - Walkers A2 Vehicles
+- WBK Simple Blood
 - Window Breaker
 - Zeus Enhanced
 - Zeus Enhanced - ACE3 Compatibility
@@ -85,10 +93,14 @@ TBA
 - [[A3 Characters 4K]](https://steamcommunity.com/sharedfiles/filedetails/?id=2965541384) - Uses more GPU resources
 - [[Aaren's Blast Effects]](https://steamcommunity.com/sharedfiles/filedetails/?id=2424322922) - Uses more GPU resources
 - [[Blastcore compiled by neetch]](https://steamcommunity.com/sharedfiles/filedetails/?id=1158566432) - Uses considerably more GPU resources
+- [[Blastcore compiled by neetch]](https://steamcommunity.com/sharedfiles/filedetails/?id=1158566432) - Uses considerably more GPU resources
 - [[Bullet Casings v1.1 (Local Mod)]](https://discord.com/channels/435753869293649920/712634879073845349/1176893790024372346) - Uses more GPU and CPU resources
 - [[Enhanced Soundscape]](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) - Uses more CPU resources
 - [[Enhanced Soundscape Plus]](https://steamcommunity.com/sharedfiles/filedetails/?id=2938312887) - Uses more CPU resources
-- [[Salmon Quick Release Buckle]](https://steamcommunity.com/sharedfiles/filedetails/?id=1528867402)
+- [[Align]](https://steamcommunity.com/sharedfiles/filedetails/?id=903134884) - Makes shooting more immersive and slightly more difficult
+- [[Auto Weapon Lower]](https://steamcommunity.com/sharedfiles/filedetails/?id=1612623122) - Lowers the weapon automatically when not in combat
+- [[MapTools Remastered]](https://steamcommunity.com/sharedfiles/filedetails/?id=1612623122) - Changes the map tools' aesthetic.
+- [[Salmon Quick Release Buckle]](https://steamcommunity.com/sharedfiles/filedetails/?id=1528867402) - Allows you to quickly drop your gear.
 
 ### Soundtrack: 
 [[Pastebin]](https://pastebin.com/2XucxLJ5)
@@ -99,4 +111,5 @@ TBA
 - [[Apricot-ale (fork maintainer/developer for KP Liberation APR)]](https://github.com/Apricot-ale/KP-Liberation-APR)
 - [[Doxus (Mission design and programming)]](https://github.com/moistbois/Moist-Liberation-APR)
 - [[Carl Mylo (Mission design and programming)]](https://www.twitch.tv/carlmylo)
+- [[TiredSloth (Balancing)]](https://github.com/moistbois/Moist-Liberation-APR)
 - [[Pantrh (Mission design)]](https://www.twitch.tv/pantrh)
