@@ -26,7 +26,7 @@ Before the turn of the millenium, Chernarus is plunged into a civil war caused b
 - Do not waste assets (vehicles, static weapons, etc.)
 - No cheating (includes exploits and metagaming.)
 
-### Modlist:
+### [[Modlist]](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.LingorLiberation1987_3.html):
 - ace
 - ACSTG AI Cannot See Through Grass
 - Advanced Sling Loading
@@ -103,7 +103,7 @@ Before the turn of the millenium, Chernarus is plunged into a civil war caused b
 - [[Salmon Quick Release Buckle]](https://steamcommunity.com/sharedfiles/filedetails/?id=1528867402) - Allows you to quickly drop your gear.
 
 ### Soundtrack: 
-[[Pastebin]](https://pastebin.com/2XucxLJ5)
+[[Pastebin]](https://pastebin.com/P4Q4WS31)
 
 ### Credits:
 - [[GreuhZbug (original Liberation developer)]](https://github.com/GreuhZbug/greuh_liberation.Altis)
