@@ -8,7 +8,7 @@
 </div>
 
 ### About:
-Before the turn of the millenium, Chernarus is plunged into a civil war caused by a violent secession. You are within a group of Chernarussians on a daring mission to liberate key enemy sectors scattered across the war-torn landscape of Chernarus and her islands within the Green Sea region. Expect the unexpected as you have to fight against people you once greeted as your neighbors. Good luck!
+Before the turn of the millennium, Chernarus is plunged into a civil war caused by a violent secession. You are within a group of Chernarussians on a daring mission to liberate key enemy sectors scattered across the war-torn landscape of Chernarus and her islands within the Green Sea region. Expect the unexpected as you have to fight against people you once greeted as your neighbors. Good luck!
 
 ### Requirements:
 - [[ARMA] 3 (Size: 40.61 GBs)](https://store.steampowered.com/app/107410/Arma_3/)
