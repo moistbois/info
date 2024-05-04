@@ -93,8 +93,8 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 ### Additional Mods:
 - [[A3 Characters 4K]](https://steamcommunity.com/sharedfiles/filedetails/?id=2965541384) - Uses more GPU resources
 - [[Aaren's Blast Effects]](https://steamcommunity.com/sharedfiles/filedetails/?id=2424322922) - Uses more GPU resources
-- [[Blastcore compiled by neetch]](https://steamcommunity.com/sharedfiles/filedetails/?id=1158566432) - Uses considerably more GPU resources
-- [[Blastcore compiled by neetch]](https://steamcommunity.com/sharedfiles/filedetails/?id=1158566432) - Uses considerably more GPU resources
+- [[Blastcore Edited (standalone version)]](https://steamcommunity.com/sharedfiles/filedetails/?id=767380317) - Uses considerably more GPU resources
+- [[Blastcore Murr Edition]](https://steamcommunity.com/sharedfiles/filedetails/?id=2257686620) - Uses considerably more GPU resources
 - [[Bullet Casings v1.1 (Local Mod)]](https://discord.com/channels/435753869293649920/712634879073845349/1176893790024372346) - Uses more GPU and CPU resources
 - [[Enhanced Soundscape]](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) - Uses more CPU resources
 - [[Enhanced Soundscape Plus]](https://steamcommunity.com/sharedfiles/filedetails/?id=2938312887) - Uses more CPU resources
