@@ -16,7 +16,7 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 - [[Teamspeak 3 (TS3) v3.6.1]](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe)
 - [[Join Moistbois’ Discord for server passwords and IPs.]](https://discord.com/invite/FeyqxXA)
 - [[Task Force Arrowhead Radio (TS3 Plugin)]](https://cdn.discordapp.com/attachments/687630994123390986/1122243967614988308/task_force_radio.ts3_plugin)
-- [[Chernarus Liberation 1990s v1.0.1] (Size: 40 GBs)](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.greensealib.html)
+- [[Chernarus Liberation 1990s v1.0.1] (Size: 40 GBs)](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.greensealibv1.0.3.html)
     - [[Alternative Steam Collection download]](https://steamcommunity.com/sharedfiles/filedetails/?id=3232700442)
 
 ### Rules:
@@ -27,7 +27,7 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 - Do not waste assets (vehicles, static weapons, etc.)
 - No cheating (includes exploits and metagaming.)
 
-### [[Modlist]](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.greensealib.html):
+### [[Modlist]](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.greensealibv1.0.3.html):
 - ace
 - ACSTG AI Cannot See Through Grass
 - Advanced Sling Loading
