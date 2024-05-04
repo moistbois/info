@@ -19,7 +19,7 @@ When you're done, click close out the window.
 ### ARMA 3 Custom Allocator:
 We'll be installing a custom allocator to improve performance. **This should only be done if you have at least 16 GBs of RAM!**
 
-First [[click here to download the allocator DLL file]](https://github.com/GoldJohnKing/mimalloc/releases/download/Arma-3-v2.1.2-20230427/mimalloc_v212.dll)
+First [[click here to download the allocator DLL file]](https://github.com/GoldJohnKing/mimalloc/releases/download/Arma-3-v2.1.4-20240424/mimalloc_v214.dll)
 
 ![Screenshot of mimalloc_v212.dll in the download list of a browser.](img/custallo1.png)
 
@@ -35,9 +35,9 @@ Once you are in the ARMA 3 folder, go into on the "Dll" folder.
 
 ![Screenshot of ARMA 3's folder, with a folder called "Dll" being highlighted.](img/custallo3.png)
 
-Move the `mimalloc_v212.dll` file into here.
+Move the `mimalloc_v214.dll` file into here.
 
-![Screenshot of ARMA 3's Dll folder, with mimalloc_v212.dll inside and highlighted.](img/custallo4.png)
+![Screenshot of ARMA 3's Dll folder, with mimalloc_v214.dll inside and highlighted.](img/custallo4.png)
 
 ### ARMA 3 Launcher Parameters:
 We'll now be editing the launch parameters in ARMA 3.
