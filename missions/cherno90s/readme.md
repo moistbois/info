@@ -27,7 +27,7 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 - Do not waste assets (vehicles, static weapons, etc.)
 - No cheating (includes exploits and metagaming.)
 
-### [[Modlist]](https://github.com/moistbois/info/releases/download/modlists/Arma.3.Preset.greensealibv1.0.3.html):
+### [[Modlist]](https://github.com/moistbois/info/releases/tag/modlists):
 - ace
 - ACSTG AI Cannot See Through Grass
 - Advanced Sling Loading
