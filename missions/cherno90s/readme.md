@@ -29,7 +29,6 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 
 ### [[Modlist]](https://github.com/moistbois/info/releases/tag/modlists):
 - ace
-- ACSTG AI Cannot See Through Grass
 - Advanced Sling Loading
 - Advanced Towing
 - Automatic Warning Suppressor
@@ -49,6 +48,7 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 - Green Sea Terrain
 - Gruppe Adler Trenches
 - Helicopter Turbulence
+- Hide Among The Grass - HATG
 - Immerse
 - Immersion Cigs
 - Improved ACE Arsenal Category
