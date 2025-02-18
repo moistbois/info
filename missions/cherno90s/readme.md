@@ -89,6 +89,7 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 - Window Breaker
 - Zeus Enhanced
 - Zeus Enhanced - ACE3 Compatibility
+- Death and Hit reactions
 
 ### Additional Mods:
 - [[A3 Characters 4K]](https://steamcommunity.com/sharedfiles/filedetails/?id=2965541384) - Uses more GPU resources
