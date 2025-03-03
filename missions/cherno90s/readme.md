@@ -23,7 +23,7 @@ Before the turn of the millennium, Chernarus is plunged into a civil war caused 
 - Don’t be a dick.
 - Don’t relog to skip unconsciousness. This is not a KOTH server.
 - This is a cooperative server. Teamwork is essential.
-- Keep game related chatter in-game. (i.e. don’t use text chat, Twitch, Discord, etc.)
+- Keep game related chatter in-game and immersive. (i.e. don’t use text chat, Twitch, Discord, etc. Dead can't talk.)
 - Do not waste assets (vehicles, static weapons, etc.)
 - No cheating (includes exploits and metagaming.)
 
